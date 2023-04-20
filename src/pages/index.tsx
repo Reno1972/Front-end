@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
     <Seo title="Projet application react" description="Description..." />
-    <h1>Hello world</h1>
+    <h1>Typescript app 1</h1>
     </>
   )
 }
